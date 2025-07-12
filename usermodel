@@ -1,0 +1,24 @@
+mini shop
+
+
+Usermodel
+
+full name -- string 
+email -string
+password - -string
+cart - array
+isamdin-  boolen
+orders - array
+conatact - number
+picture -db
+
+
+
+product -
+image 
+name 
+price 
+discount 
+bgcolour 
+pannel colour 
+text colour
